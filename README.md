@@ -23,7 +23,6 @@
 
 ### 🛠️ What I'm working on
 
-- **Deep learning from scratch** — reimplementing autograd (à la micrograd) to understand backprop at the level of the computational graph
 - **Sequence models beyond attention** — reading around sub-quadratic architectures (Mamba, RWKV, Hyena)
 - **Low-level graphics in C** — raycasting, raytracing, a Doom-style engine
 - **A fully local AI assistant** *(long-term)* — Assistant with complete data sovereignty
