@@ -73,7 +73,6 @@ Proxmox home server
 </p>
 <p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KLexami&theme=transparent" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KLexami&theme=transparent&utcOffset=2" />
 </p>
 
 ---
