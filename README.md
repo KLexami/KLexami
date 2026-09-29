@@ -64,9 +64,16 @@ Proxmox home server
 
 ### 📊 Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KLexami&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLexami&layout=compact&hide_border=true" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KLexami&theme=transparent" />
+</p>
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KLexami&theme=transparent" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KLexami&theme=transparent" />
+</p>
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KLexami&theme=transparent" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KLexami&theme=transparent&utcOffset=2" />
 </p>
 
 ---
